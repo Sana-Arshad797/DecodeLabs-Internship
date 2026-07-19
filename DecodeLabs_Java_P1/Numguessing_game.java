@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class DecodeLabs_Java_P1 {
+public class Numguessing_game {
     public static void main(String[] args) {
         // setting up scanner and random generator
         Scanner sc = new Scanner(System.in);
